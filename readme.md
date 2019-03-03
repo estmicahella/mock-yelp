@@ -3,7 +3,7 @@ Recreation of Yelp with full responsiveness.
 
 **Link to project:**
 
-![Yelp Hero](file:///Users/Grey/Desktop/rc/week-6/mock-yelp/yelp-ss%20copy.png?raw=true)
+![Yelp Hero](yelp-ss copy.png)
 
 ## How It's Made:
 
